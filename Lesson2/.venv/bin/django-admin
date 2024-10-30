@@ -1,4 +1,4 @@
-#!/Users/ompatel19/Desktop/django/Lesson2/.venv/bin/python3.12
+#!/Users/ompatel19/Desktop/django/Lesson1/.venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
